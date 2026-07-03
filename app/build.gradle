@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.filato.campro'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.filato.campro'
+        minSdk 23
+        targetSdk 35
+        versionCode 9
+        versionName '0.9-adaptive-ui'
+    }
+}

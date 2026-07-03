@@ -1,0 +1,8 @@
+Загрузка V9 в GitHub:
+
+1. Распакуй ZIP.
+2. Загрузи содержимое папки FilatoCAMAndroidV9_AdaptiveUI в корень репозитория.
+3. В репозитории должны быть: app, build.gradle, settings.gradle, gradle.properties, .github/workflows/android-build.yml.
+4. Открой Actions.
+5. Запусти Build Filato CAM PRO Android Adaptive UI.
+6. После успеха скачай artifact FilatoCAM-PRO-Android-V9-adaptive-debug-apk.
